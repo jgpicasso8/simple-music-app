@@ -1,0 +1,173 @@
+The files that will be used for input are HW2Songs.txt, HW2Albums.txt, and HW2Commands.txt
+Unordered doubly linked list Album #1
+- The Way Old Friends Do
+- Andante, Andante
+- The Piper
+- Me and I
+- Lay All Your Love on Me
+- Our Last Summer
+- Happy New Year
+- On and on and On
+- Super Trouper
+- The Winner Takes It All
+
+Unordered doubly linked list Album #2
+- Intermezzo No. 1
+- I've Been Waiting for You
+- SOS
+- Bang-A-Boomerang
+- Rock Me
+- So Long
+- I Do, I Do, I Do, I Do, I Do
+- Tropical Loveland
+- Mamma Mia
+- Hey, Hey Helen
+- Man in the Middle
+
+Unordered doubly linked list Album #3
+- Lovers (Live a Little Longer)
+- The King Has Lost His Crown
+- Chiquitita
+- Does Your Mother Know
+- Voulez-Vous
+- Kisses of Fire
+- As Good as New
+- Angeleyes
+- I Have a Dream
+- If It Wasn't for the Nights
+
+>>> Creating in-order version of each Album
+Ordered doubly linked list Album #1
+- Super Trouper
+- The Winner Takes It All
+- On and on and On
+- Andante, Andante
+- Me and I
+- Happy New Year
+- Our Last Summer
+- The Piper
+- Lay All Your Love on Me
+- The Way Old Friends Do
+
+Ordered doubly linked list Album #2
+- Mamma Mia
+- Hey, Hey Helen
+- Tropical Loveland
+- SOS
+- Man in the Middle
+- Bang-A-Boomerang
+- I Do, I Do, I Do, I Do, I Do
+- Rock Me
+- Intermezzo No. 1
+- I've Been Waiting for You
+- So Long
+
+Ordered doubly linked list Album #3
+- As Good as New
+- Voulez-Vous
+- I Have a Dream
+- Angeleyes
+- The King Has Lost His Crown
+- Does Your Mother Know
+- If It Wasn't for the Nights
+- Chiquitita
+- Lovers (Live a Little Longer)
+- Kisses of Fire
+
+
+Starting to process play commands
+
+
+Executing commands for Album #1
+Now At: Super Trouper
+Now At: The Winner Takes It All
+Now At: On and on and On
+Now Playing: On and on and On
+Now At: Andante, Andante
+Now At: Me and I
+Now Playing: Me and I
+Now At: Andante, Andante
+Now Playing: Andante, Andante
+Now At: Super Trouper
+Now Playing: Super Trouper
+Now At: The Winner Takes It All
+Now At: On and on and On
+Now At: Andante, Andante
+Now At: On and on and On
+Now At: The Winner Takes It All
+Now Playing: The Winner Takes It All
+Now At: The Way Old Friends Do
+Now Playing: The Way Old Friends Do
+Now At: Lay All Your Love on Me
+Now Playing: Lay All Your Love on Me
+Now At: The Piper
+Now At: Our Last Summer
+Now Playing: Our Last Summer
+
+
+Executing commands for Album #2
+Now At: So Long
+Now Playing: So Long
+Now At: I've Been Waiting for You
+Now Playing: I've Been Waiting for You
+Now At: Intermezzo No. 1
+Now At: Rock Me
+Now Playing: Rock Me
+
+
+Executing commands for Album #3
+Now At: As Good as New
+Now Playing: As Good as New
+Now At: Voulez-Vous
+Now At: I Have a Dream
+Now At: Angeleyes
+Now At: I Have a Dream
+Now At: Voulez-Vous
+Now Playing: Voulez-Vous
+Now At: Kisses of Fire
+Now Playing: Kisses of Fire
+
+
+Songs on the doubly linked playlist: 
+- Super Trouper
+- Mamma Mia
+- Voulez-Vous
+- Andante, Andante
+- I've Been Waiting for You
+- Does Your Mother Know
+- Rock Me
+- I Do, I Do, I Do, I Do, I Do
+- Chiquitita
+- Angeleyes
+
+
+Starting to process playlist commands
+
+Executing commands for Playlist
+Now At: Angeleyes
+Now Playing: Angeleyes
+Now At: Chiquitita
+Now Playing: Chiquitita
+Now At: I Do, I Do, I Do, I Do, I Do
+Now Playing: I Do, I Do, I Do, I Do, I Do
+Now At: Rock Me
+Now At: Does Your Mother Know
+Now Playing: Does Your Mother Know
+Now At: Super Trouper
+Now At: Mamma Mia
+Now At: Voulez-Vous
+Now Playing: Voulez-Vous
+
+**********************
+***** Statistics *****
+**********************
+Total Songs Read: 31
+Number of Skip Forward commands: 12
+Number of Skip Backward commands: 15
+Number of Play Next Track commands: 19
+Number of Append commands: 31
+Number of Beginning Forward commands:  4
+Number of End Forward commands:  4
+Total time of program: 0.00399113 milliseconds
+
+Process finished with exit code 0
