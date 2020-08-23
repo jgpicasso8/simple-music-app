@@ -1,4 +1,4 @@
-The files that will be used for input are HW2Songs.txt, HW2Albums.txt, and HW2Commands.txt
+The files that will be used for input are songs.txt, albums.txt, and commands.txt
 Unordered doubly linked list Album #1
 - The Way Old Friends Do
 - Andante, Andante
