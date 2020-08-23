@@ -1,0 +1,61 @@
+Album: Super Trouper
+Beginning
+Skip Forward
+Skip Forward
+Play Track
+Skip Forward
+Skip Forward
+Play Track
+Skip Backward
+Play Track
+Beginning
+Play Track
+Skip Forward
+Skip Forward
+Skip Forward
+Skip Backward
+Skip Backward
+Play Track
+End
+Play Track
+Skip Backward
+Play Track
+Skip Backward
+Skip Backward
+Play Track
+
+Album: ABBA
+End
+Play Track
+Skip Backward
+Play Track
+Skip Backward
+Skip Backward
+Play Track
+
+Album: Voulez-Vous
+Beginning
+Play Track
+Skip Forward
+Skip Forward
+Skip Forward
+Skip Backward
+Skip Backward
+Play Track
+End
+Play Track
+
+Playlist
+End
+Play Track
+Skip Backward
+Play Track
+Skip Backward
+Play Track
+Skip Backward
+Skip Backward
+Play Track
+Beginning
+Skip Forward
+Skip Forward
+Play Track
